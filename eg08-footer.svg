@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" role="img" aria-label="Let's build something fast and reliable.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070707"/><stop offset="0.5" stop-color="#140003"/><stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cc1a0f" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2a1d" stop-opacity="0.5"/><stop offset="1" stop-color="#cc1a0f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" fill="url(#bg)"/>
+  <circle cx="761.7" cy="14.7" r="0.8" fill="#fff" opacity="0.39"><animate attributeName="opacity" values="0.39;0.9;0.39" dur="3.0s" begin="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="1054.9" cy="21.4" r="0.96" fill="#fff" opacity="0.33"><animate attributeName="opacity" values="0.33;0.9;0.33" dur="2.5s" begin="0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="50.8" cy="33.5" r="1.21" fill="#fff" opacity="0.36"><animate attributeName="opacity" values="0.36;0.9;0.36" dur="3.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="958.9" cy="12.7" r="1.39" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1130.4" cy="48.4" r="0.6" fill="#fff" opacity="0.36"><animate attributeName="opacity" values="0.36;0.9;0.36" dur="2.7s" begin="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="956.3" cy="90.8" r="1.09" fill="#fff" opacity="0.34"><animate attributeName="opacity" values="0.34;0.9;0.34" dur="4.9s" begin="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="982.1" cy="78.8" r="1.45" fill="#fff" opacity="0.17"><animate attributeName="opacity" values="0.17;0.9;0.17" dur="3.9s" begin="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="284.4" cy="43.3" r="0.59" fill="#fff" opacity="0.25"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.0s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="757.4" cy="51.4" r="0.91" fill="#fff" opacity="0.48"><animate attributeName="opacity" values="0.48;0.9;0.48" dur="2.9s" begin="1.1s" repeatCount="indefinite"/></circle>
+  <circle cx="771.7" cy="77.8" r="0.69" fill="#fff" opacity="0.28"><animate attributeName="opacity" values="0.28;0.9;0.28" dur="4.3s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1167.8" cy="81.1" r="1.11" fill="#fff" opacity="0.42"><animate attributeName="opacity" values="0.42;0.9;0.42" dur="4.2s" begin="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="285.7" cy="15.5" r="0.85" fill="#fff" opacity="0.48"><animate attributeName="opacity" values="0.48;0.9;0.48" dur="3.1s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1036.6" cy="46.0" r="1.22" fill="#fff" opacity="0.31"><animate attributeName="opacity" values="0.31;0.9;0.31" dur="3.4s" begin="3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="327.3" cy="38.6" r="1.12" fill="#fff" opacity="0.46"><animate attributeName="opacity" values="0.46;0.9;0.46" dur="3.1s" begin="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="483.3" cy="35.7" r="1.6" fill="#fff" opacity="0.17"><animate attributeName="opacity" values="0.17;0.9;0.17" dur="3.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="147.2" cy="79.8" r="1.37" fill="#fff" opacity="0.28"><animate attributeName="opacity" values="0.28;0.9;0.28" dur="3.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="1175.5" cy="69.1" r="1.57" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="4.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="810.8" cy="70.0" r="0.79" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="546.3" cy="115.0" r="1.46" fill="#fff" opacity="0.21"><animate attributeName="opacity" values="0.21;0.9;0.21" dur="3.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1078.6" cy="106.0" r="0.83" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.1s" begin="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="904.5" cy="70.3" r="1.36" fill="#fff" opacity="0.26"><animate attributeName="opacity" values="0.26;0.9;0.26" dur="3.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="42.6" cy="112.3" r="1.47" fill="#fff" opacity="0.17"><animate attributeName="opacity" values="0.17;0.9;0.17" dur="4.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1038.5" cy="114.3" r="0.59" fill="#fff" opacity="0.42"><animate attributeName="opacity" values="0.42;0.9;0.42" dur="3.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="908.4" cy="25.9" r="1.02" fill="#fff" opacity="0.46"><animate attributeName="opacity" values="0.46;0.9;0.46" dur="3.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+  <circle cx="510.8" cy="34.9" r="1.09" fill="#fff" opacity="0.26"><animate attributeName="opacity" values="0.26;0.9;0.26" dur="4.3s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1174.4" cy="82.2" r="0.98" fill="#fff" opacity="0.23"><animate attributeName="opacity" values="0.23;0.9;0.23" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <line x1="0" y1="1" x2="1200" y2="1" stroke="#cc1a0f" stroke-opacity="0.3" stroke-width="2"/>
+  <rect x="-200" y="0" width="200" height="3" fill="#ff2a1d"><animate attributeName="x" values="-200;1200" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="600" y="64" text-anchor="middle" font-family="'Arial','Helvetica Neue',sans-serif" font-size="26" font-weight="800" letter-spacing="2" fill="#f0ece4">LET'S BUILD SOMETHING <tspan fill="#cc1a0f">FAST</tspan> AND <tspan fill="#cc1a0f">RELIABLE</tspan>.</text>
+  <text x="600" y="98" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="3" fill="#8a8a8a">CUSTOM DEVELOPMENT · PERFORMANCE MINDSET · RELIABLE EXECUTION</text>
+  <text x="600" y="128" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" letter-spacing="2" fill="#555">BASED IN ARGENTINA · WORKING WORLDWIDE</text>
+</svg>
