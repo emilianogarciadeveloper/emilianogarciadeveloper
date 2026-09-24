@@ -43,6 +43,26 @@ Measurement-driven Core Web Vitals diagnostics for PHP, WordPress and Nginx stac
 Custom WordPress theme architecture with build tooling, CPTs, ACF, accessibility and performance defaults.
 -->
 
+### Experience in production
+
+Production experience since 2018, from front end and WordPress to full platforms, infrastructure and AI systems. Some roles run concurrently: independent freelance and white-label work alongside contract positions.
+
+**Freelance Full Stack Developer & Web Consultant** · Independent · Remote · 2019–present
+
+Custom web development, integrations, performance, accessibility, automation and technical problem-solving for companies, digital agencies and international clients, including white-label delivery under agencies' brands. PHP, Laravel, JavaScript, React, Node.js, MySQL, WordPress/WooCommerce, REST APIs and AI/RAG.
+
+**Full Stack Developer** · Grossa · Part-time · Remote · 2021–present
+
+End-to-end development of sites, apps, dashboards, integrations and AI solutions with WordPress, WooCommerce, PHP, Laravel, React, Vite, MySQL and REST APIs: custom themes and plugins, responsive front end, performance and Core Web Vitals, accessibility fixes, server support, and AI/automation (OpenAI/Claude, RAG, chatbots, Looker Studio dashboards).
+
+**Web Developer** · Thalú · Part-time · Hybrid · 2019–2021
+
+Custom WordPress solutions and PHP development, pixel-perfect responsive front end from design files, custom templates and reusable components, bug fixing, performance improvements and production support.
+
+**Web Developer** · Ide Consultora · On-site · 2018–2019
+
+Full-stack WordPress development and customization, custom features and web interfaces, bug fixing, performance and server support, plus responsive HTML email and newsletter development for campaigns.
+
 ### Stack
 
 PHP, Laravel, JavaScript, React, Vite, Node.js, WordPress, WooCommerce, MySQL, REST APIs, Linux, Nginx, PHP-FPM, Cloudflare, Git, axe, Pa11y, Lighthouse, Python/FastAPI for AI services.
