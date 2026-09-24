@@ -1,96 +1,50 @@
 <!--
-  Profile README — Emiliano Garcia
-  Maintenance rules:
-  - Name is always "Emiliano Garcia" (no accent). No personal aliases or brand names.
-  - Only list repositories under "Selected engineering work" once they are public and documented.
-  - No stats cards, typing animations or decorative badges.
+  Profile README. Name is always "Emiliano Garcia" (no accent). No aliases, badges or stats cards.
+  Add the website link to the intro and Contact once the domain is live.
 -->
 
-![](./banner.svg)
+![Emiliano Garcia, Senior Full Stack Web Developer](./banner.svg)
 
-# Emiliano Garcia
+I'm Emiliano Garcia, a senior full stack developer. For more than 8 years I've built, maintained and improved production web systems for clients and agencies in the US, Spain, Canada and Australia, working remotely from Argentina.
 
-Senior Full Stack Developer working on production web systems: building new ones, and improving the ones teams already depend on.
-
-I work mainly with PHP, Laravel, React and WordPress/WooCommerce, with a particular focus on accessibility and web performance. For more than 8 years I've worked with clients and agencies in the US, Spain, Canada and Australia, remotely from Argentina.
+My main stack is PHP, Laravel, React and WordPress/WooCommerce. Most of my specialist work is in accessibility and web performance.
 
 [LinkedIn](https://www.linkedin.com/in/emilianogarciadeveloper/)
 
-## What I work on
+### Focus
 
-- **Full stack applications.** Laravel back ends (REST APIs, authentication, roles and permissions, jobs and queues, integrations) with React front ends built on Vite.
-- **WordPress and WooCommerce engineering.** Custom themes and plugins in PHP, custom blocks, admin functionality, payment integrations, migrations and long-term maintenance. No page builders.
-- **Accessibility.** WCAG 2.1 and 2.2 AA audits and remediation in existing codebases: keyboard and screen-reader testing, focus management, semantic markup, accessible forms, dialogs and navigation.
-- **Web performance.** Core Web Vitals (LCP, INP, CLS) diagnosed across the whole request, from front-end assets and third-party scripts to PHP, MySQL, caching, Nginx/PHP-FPM and the CDN.
-- **APIs and integrations.** REST APIs, webhooks, third-party services and data moving reliably between systems.
-- **AI and automation.** Retrieval-augmented generation, tool calling, structured outputs and workflow automation, treated as engineering work: retrieval quality, guardrails, logging and evaluation.
+**Full stack applications:** Laravel APIs, auth and permissions, queues and integrations, with React front ends on Vite.
 
-## How I work
+**WordPress and WooCommerce:** custom themes, plugins and blocks written in PHP, payment integrations, migrations and long-term maintenance. No page builders.
 
-Production-minded engineering, where performance, accessibility, reliability and maintainability are considered together from the start instead of being added at the end. In practice:
+**Accessibility:** more than 500 sites audited or remediated since 2021, first against WCAG 2.1 AA and now 2.2 AA. Automated scans with axe and Pa11y, then manual keyboard and screen-reader testing, fixes delivered per success criterion and retested.
 
-- I read an existing system before changing it, and work within its conventions.
-- Changes ship in small, reviewable increments through Git, staging and QA.
-- Tests go where they protect behaviour that matters.
-- Decisions and trade-offs are documented so the next developer can pick up the work.
-- I watch what happens after a release, not only at merge time.
+**Performance:** Core Web Vitals diagnosed across the whole request, from assets and third-party scripts to PHP, MySQL, caching and Nginx. Measure, fix at the source, measure again.
 
-## Accessibility and performance
+**AI and automation:** retrieval-augmented generation, tool calling, structured outputs and webhook-driven workflows, with logging and evaluation.
 
-Since 2021 I've audited or remediated more than 500 sites for accessibility, first against WCAG 2.1 AA and, since its publication, WCAG 2.2 AA.
+### How I work
 
-The work is done against live code. Automated scans with axe and Pa11y surface candidate issues; manual testing confirms what actually fails: keyboard-only navigation, focus order and visibility, screen readers, zoom and reflow, forms and error messages, landmarks, tables and dialogs. Each issue reaches developers with the affected element, the success criterion and a concrete fix, and is retested after the change. Fixes go into the markup and components, not into overlay widgets.
+I read an existing system before changing it, ship in small reviewable increments, test what matters and document decisions for whoever comes next. Much of my work is white-label, inside an agency's own tickets, repositories and release process.
 
-Performance work follows the same loop: measure with field and lab data, find the real bottleneck, fix it at the source, and measure again.
-
-## Public and private work
-
-Most of my client and agency work lives in private GitHub and Bitbucket repositories. The public repositories here show the same engineering practices in reusable or sanitized form.
+Most client work lives in private GitHub and Bitbucket repositories. The public repositories here show the same practices in reusable or sanitized form.
 
 <!--
-  Uncomment each entry only when the repository is public, documented and tested.
-
-## Selected engineering work
+### Selected engineering work
+Uncomment each entry only when the repository is public, documented and tested.
 
 **[WCAG Remediation Toolkit](https://github.com/emilianogarciadeveloper/wcag-remediation-toolkit)**
-Manual accessibility QA workflows, WCAG 2.2 AA checklists and accessible component patterns, including WordPress and WooCommerce notes.
-Markdown · HTML · JavaScript · axe
-
-**[Laravel + React reference](https://github.com/emilianogarciadeveloper/REPO_NAME)**
-Production-oriented API and front-end architecture with auth, validation, service layer, tests and CI.
-PHP · Laravel · React · Vite · Pest · GitHub Actions
+Manual accessibility QA workflows, WCAG 2.2 AA checklists and accessible component patterns.
 
 **[Web Performance Playbook](https://github.com/emilianogarciadeveloper/web-performance-playbook)**
-Measurement-driven Core Web Vitals diagnostics and remediation workflows for PHP and WordPress stacks.
+Measurement-driven Core Web Vitals diagnostics for PHP, WordPress and Nginx stacks.
 
 **[WP Production Starter](https://github.com/emilianogarciadeveloper/wp-production-starter)**
-Custom WordPress theme architecture with a modern build pipeline, CPTs, ACF, accessibility and performance defaults.
-
-**[LUMEN GENESIS](https://github.com/emilianogarciadeveloper/REPO_NAME)**
-Simulation platform with retrieval over pgvector, multi-world state and an observability dashboard.
-Python · FastAPI · PostgreSQL · pgvector · Redis · Godot
+Custom WordPress theme architecture with build tooling, CPTs, ACF, accessibility and performance defaults.
 -->
 
-## Stack
+### Stack
 
-**Core:** PHP, Laravel, JavaScript, React, Vite, Node.js, WordPress, WooCommerce
+PHP, Laravel, JavaScript, React, Vite, Node.js, WordPress, WooCommerce, MySQL, REST APIs, Linux, Nginx, PHP-FPM, Cloudflare, Git, axe, Pa11y, Lighthouse, Python/FastAPI for AI services.
 
-**Front end:** HTML, CSS/SCSS, Bootstrap, responsive layouts, jQuery in legacy systems
-
-**Data and APIs:** MySQL, REST APIs, webhooks, third-party integrations
-
-**Infrastructure:** Linux, Nginx, PHP-FPM, VPS, Cloudflare, DNS and SSL, cPanel/WHM, Git
-
-**Accessibility and performance:** WCAG 2.1/2.2, axe, Pa11y, screen readers, Lighthouse, Core Web Vitals
-
-**AI and automation:** RAG, embeddings and vector search, tool calling, structured outputs, OpenAI and Anthropic APIs, Python/FastAPI for AI services
-
-## Working with agencies and teams
-
-A large part of my work is white-label, inside an agency's own process: their tickets, repositories, staging environments and release schedule. Client confidentiality is the default. I'm comfortable taking over existing codebases, working on retainers, and leaving documentation and a clean handoff behind.
-
-## Contact
-
-Available for senior development contracts, agency collaboration, accessibility remediation, full stack projects and technical consulting.
-
-- LinkedIn: [linkedin.com/in/emilianogarciadeveloper](https://www.linkedin.com/in/emilianogarciadeveloper/)
+![Let's build something fast and reliable.](./footer.svg)
